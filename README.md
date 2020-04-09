@@ -4,8 +4,8 @@
 * [National Data Buoy Center](https://www.ndbc.noaa.gov)
 
 ## Our Team's 2 Official Data Sets for Folly surf forecasting:
-* [Capers Nearshore Data](https://www.ndbc.noaa.gov/station_history.php?station=41029)
-* [Edisto Offshore Data](https://www.ndbc.noaa.gov/station_history.php?station=41004)
+* [ENE Nassau Offshore Data](https://www.ndbc.noaa.gov/station_history.php?station=41047)
+* [Edisto Inshore Data](https://www.ndbc.noaa.gov/station_history.php?station=41004)
 
 ## Feature Descriptions:
 * **WDIR:** Wind direction (the direction the wind is coming from in degrees clockwise from true N) during the same period used for WSPD. See Wind Averaging Methods
@@ -42,7 +42,7 @@ Hopefully from both the inshore and offshore folly buoy data, our team can find 
 
 ## Plan of Attack:
 
-Using prior domain knowledge, make assumptions for what features can be extracted to find the best wave quality predictions. For example, North West winds are offshore at Folly and make the waves a cleaner texture. Longer swell periods usually suggests that the waves are more organized and enable surfers to catch longer rides. Incoming tide usually means that the waves tend to be bigger with the tiding coming in. In the future, we are looking to implement a historical wave quality check from surf forecast sites such as Surfline, swellinfo, or magic seaweed.  
+Using prior domain knowledge, make assumptions for what features can be extracted to find the best wave quality predictions. For example, North West winds are offshore at Folly and make the waves a cleaner texture. Longer swell periods usually suggests that the waves are more organized and enable surfers to catch longer rides. Incoming tide usually means that the waves tend to be bigger with the tiding coming in. In the future, we are looking to implement a historical wave quality check from surf forecast sites such as Surfline, swellinfo, or magic seaweed. 
 
 
 ## Authors:
