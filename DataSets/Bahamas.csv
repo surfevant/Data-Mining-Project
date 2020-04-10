@@ -1,5 +1,4 @@
-#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS  TIDE
-#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC   mi    ft
+#YY  MM DD hh mm WDIR_degt WSPD_ms GST_ms  WVHT_m   DPD_sec   APD_sec MWD_degt   PRES_hpa  ATMP_degc  WTMP_degc  DEWP_degc  VIS_mi  TIDE_ft
 2014 12 31 23 50  97  1.8  2.7  1.24  8.33  5.75   4 1022.1  23.6  25.4  19.6 99.0 99.00
 2015 01 01 00 50  94  1.6  2.3  1.29  7.14  5.89 100 1022.2  23.8  25.4  19.9 99.0 99.00
 2015 01 01 01 50 168  0.1  0.4  1.22  8.33  5.96  11 1022.4  23.9  25.4  19.6 99.0 99.00
