@@ -1,4 +1,5 @@
 # Data Mining Project
+![Screenshot](DataSetSources.png)
 
 ## Links to Data (2019):
 * [National Data Buoy Center](https://www.ndbc.noaa.gov)
