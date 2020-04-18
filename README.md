@@ -4,7 +4,7 @@
 ## Links to Data (2019):
 * [National Data Buoy Center](https://www.ndbc.noaa.gov)
 
-## Our Team's 2 Official Data Sets for Folly surf forecasting:
+## Our Team's 2 Official Data Sets for Folly Surf Forecasting:
 * [ENE Nassau Offshore Data](https://www.ndbc.noaa.gov/station_history.php?station=41047)
 * [Edisto Inshore Data](https://www.ndbc.noaa.gov/station_history.php?station=41004)
 
@@ -48,11 +48,11 @@ Using prior domain knowledge, make assumptions for what features can be extracte
 
 ## Authors:
 
-Alex Swanson
+[*Alex Swanson*](https://github.com/EyYoTony)
 
-Evan Tanner
+[*Evan Tanner*](https://github.com/surfevant)
 
-Jill Sirignano
+[*Jill Sirignano*](https://github.com/sirignanoj)
 
 
 
