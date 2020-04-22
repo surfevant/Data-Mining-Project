@@ -46,7 +46,7 @@ Hopefully from both the inshore and offshore folly buoy data, our team can find 
 Using prior domain knowledge, make assumptions for what features can be extracted to find the best wave quality predictions. For example, North West winds are offshore at Folly and make the waves a cleaner texture. Longer swell periods usually suggests that the waves are more organized and enable surfers to catch longer rides. Incoming tide usually means that the waves tend to be bigger with the tiding coming in. In the future, we are looking to implement a historical wave quality check from surf forecast sites such as Surfline, swellinfo, or magic seaweed. 
 
 
-## Authors:
+## Author:
 
 [*Evan Tanner*](https://github.com/surfevant)
 
