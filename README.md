@@ -48,11 +48,8 @@ Using prior domain knowledge, make assumptions for what features can be extracte
 
 ## Authors:
 
-[*Alex Swanson*](https://github.com/EyYoTony)
-
 [*Evan Tanner*](https://github.com/surfevant)
 
-[*Jill Sirignano*](https://github.com/sirignanoj)
 
 
 
