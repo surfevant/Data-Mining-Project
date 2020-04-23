@@ -4,7 +4,7 @@
 ## Links to Data (2019):
 * [National Data Buoy Center](https://www.ndbc.noaa.gov)
 
-## Our Team's 2 Official Data Sets for Folly Surf Forecasting:
+## Official Data Sets for Folly Surf Forecasting:
 * [ENE Nassau Offshore Data](https://www.ndbc.noaa.gov/station_history.php?station=41047)
 * [Edisto Inshore Data](https://www.ndbc.noaa.gov/station_history.php?station=41004)
 
