@@ -25,8 +25,8 @@ cut -d, -f17-18 --complement tempBahamas.csv > Bahamas.csv
 cut -d, -f17-18 --complement tempEdisto.csv > Edisto.csv
 
 #remove the first 2 rows to append new headers
-sed -i '1,2d' Bahamas.csv
-sed -i '1,2d' Edisto.csv
+sed -i '0,1d' Bahamas.csv
+sed -i '0,1d' Edisto.csv
 
 #add new headers to the csv files
 sed -i 1i"YY,MM,DD,hh,mm,WDIR_degt,WSPD_ms,GST_ms,WVHT_m,DPD_sec,APD_sec,MWD_degt,PRES_hpa,ATMP_degc,WTMP_degc,DEWP_degc" Bahamas.csv
