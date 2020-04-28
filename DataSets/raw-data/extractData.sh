@@ -12,6 +12,7 @@ tr -s " " "," < tempEdisto.txt > tempEdisto.csv
 
 #remove temp files
 rm tempBahamas.txt tempEdisto.txt
+rm Edisto.txt Bahamas.txt
 
 #move files to DataSets
 mv tempBahamas.csv tempEdisto.csv ../
